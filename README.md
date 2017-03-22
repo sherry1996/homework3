@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>网传小官网</title>
+<title>网传官网</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
